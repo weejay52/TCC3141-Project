@@ -16,6 +16,8 @@
 * Scripting
 
 #### Techniques used to implement version control
+With version control software such as Git, version control is much smoother and easier for us to implement. Using an online platform like Github to store our files means that we have an online back up of our work, which is beneficial for us collaborators.
+
 1) Commit
 - Once we saved our files, we commit them - the changes we made to our files in our repository will be saved as a version of the repository, and then our changes are now ready to go up on GitHub.
 2) Pull
