@@ -1,10 +1,21 @@
-## TCC3141-Project
+# TCC3141-Project
 
-Steps taken to Implement the App
+#### Steps taken to Implement the App
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
 
+#### Tools used to Implement the App
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
 
-Tools used to Implement the App
+#### APIs used
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
 
-APIs used
-
-Techniques used to implement version control
+#### Techniques used to implement version control
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
