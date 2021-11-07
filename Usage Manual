@@ -1,5 +1,5 @@
-1) Download the MIT AI2 Companion application in Google playstore / IOS.
-2) Open the app and scan the given QR code to access our BMI app.
+1) Download our BMI app by downloading v2.2 apk file from our github.
+2) Once downloaded, install the apk file and open the app.
 3) There are two options to choose from after opening the app, they are BMI Calculator, and Step Counter.
 4) In the BMI Calculator, you are required to fill in your details such as your name, height(in M), and weight (in KG).
 5) After finish filling in your details, click on Calculate so that the system will calculate and display your BMI score and BMI Category.
