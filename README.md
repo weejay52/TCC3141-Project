@@ -1,10 +1,10 @@
 ## TCC3141-Project
 
-##Steps taken to Implement the App
-#agresive
+Steps taken to Implement the App
 
-##Tools used to Implement the App
 
-##APIs used
+Tools used to Implement the App
 
-##Techniques used to implement version control
+APIs used
+
+Techniques used to implement version control
