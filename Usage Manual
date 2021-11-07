@@ -1,6 +1,7 @@
 1) Download our BMI app by downloading v2.2 apk file from our github.
 2) Once downloaded, install the apk file and open the app.
 3) There are two options to choose from after opening the app, they are BMI Calculator, and Step Counter.
+https://github.com/weejay52/TCC3141-Project/issues/1#issue-1046672205
 4) In the BMI Calculator, you are required to fill in your details such as your name, height(in M), and weight (in KG).
 5) After finish filling in your details, click on Calculate so that the system will calculate and display your BMI score and BMI Category.
 6) You can also click on Display Chart, to display the Total People BMI Range chart.
